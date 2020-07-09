@@ -6,4 +6,4 @@ I work on tools that make onboarding & using Cloudinary easier for React develop
 
 Otherwise you'll often find projects here using NextJS, GraphQL, & Apollo.
 
-Best place to reach me is definitely my Twitter [@domitriusclark](https://twitter.com/domitriusclark). I'm always open for questions around DevRel, tools that I use/write, building a community, or bootcamps. :heart:
+Best place to reach me is definitely my twitter [@domitriusclark](https://twitter.com/domitriusclark). I'm always open for questions around DevRel, tools that I use/write, building a community, or bootcamps. :heart:
