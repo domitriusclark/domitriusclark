@@ -6,5 +6,5 @@
 - 👷‍♂️  Currently working on [use-cloudinary](https://github.com/domitriusclark/use-cloudinary) && [a social template designer](https://github.com/domitriusclark/generate-media-templates)
 - :computer:  I work often with NextJS, React, ChakraUI, Cloudinary, and Apollo Graphql
 - :cityscape:  I organize [Reactadelphia](https://meetup.com/reactadelphia) and help others build up their communities
-- :egg:  I'm also an instructor for [Egghead](https://egghead.io/instructors/domitrius-clark) most teaching tools in the React ecosysystem 
+- :egg:  I'm also an instructor for [Egghead](https://egghead.io/instructors/domitrius-clark), mostly teaching tools in the React ecosysystem 
 - 👨‍🏫   I'm interested in learning Go, AWS, Javascript (cause who really knows JS???), and ways to make an impact slamming keys
