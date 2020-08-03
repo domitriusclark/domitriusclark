@@ -1,4 +1,4 @@
-![My social card](https://res.cloudinary.com/testing-hooks-upload/image/upload/v1594327700/og-image_1_c2xx6n.png)
+![My social card](https://res.cloudinary.com/testing-hooks-upload/image/upload/v1594327700/socials_banner.png)
 
 ### Hey ya'll 👋
 
