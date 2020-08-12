@@ -1,7 +1,5 @@
 ![My social card](https://res.cloudinary.com/testing-hooks-upload/image/upload/v1594327700/socials_banner.png)
 
-### Hey ya'll 👋
-
 - :cloud:  I'm an Advocate Engineer for Cloudinary
 - 👷‍♂️  Currently working on [use-cloudinary](https://github.com/domitriusclark/use-cloudinary) && [MDNEXT](https://github.com/domitriusclark/mdnext)
 - :computer:  I work often with NextJS, React, ChakraUI, Cloudinary, and Apollo Graphql
