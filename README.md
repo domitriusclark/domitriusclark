@@ -2,7 +2,7 @@
 
 :cloud: Advocate Engineer for Cloudinary
 <br />
-👷‍♂️  Currently working on [use-cloudinary](https://github.com/domitriusclark/use-cloudinary) && [MDNEXT](https://github.com/domitriusclark/mdnext)
+👷‍♂️  Currently working on [MDNEXT](https://github.com/domitriusclark/mdnext)
 <br />
 :cityscape:  I organize [Reactadelphia](https://meetup.com/reactadelphia)
 <br />
