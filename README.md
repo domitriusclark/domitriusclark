@@ -1,8 +1,8 @@
 ![My social card](https://res.cloudinary.com/testing-hooks-upload/image/upload/v1594327700/socials_banner.png)
 
-:cloud: Advocate Engineer for Cloudinary
+:nerd-face: Jamstack Community Eng @Netlify
 <br />
-👷‍♂️  Currently working on [MDNEXT](https://github.com/domitriusclark/mdnext)
+👷‍♂️  Currently working on communities.new
 <br />
 :cityscape:  I organize [Reactadelphia](https://meetup.com/reactadelphia)
 <br />
