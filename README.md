@@ -4,8 +4,6 @@
 <br />
 👷‍♂️  Currently working on communities.new
 <br />
-:cityscape:  I organize [Reactadelphia](https://meetup.com/reactadelphia)
-<br />
 :egg:  You'll find me teaching some things on [Eggheadio](https://egghead.io/instructors/domitrius-clark)
 <br />
 👨‍🏫   I'm passionate about creating engaging and safe spaces for communities. 
