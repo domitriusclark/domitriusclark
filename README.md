@@ -1,9 +1,14 @@
 ![My social card](https://res.cloudinary.com/testing-hooks-upload/image/upload/v1594327700/socials_banner.png)
 
-🤓 Jamstack Community Eng @Netlify
+🤓 DX Eng @Netlify
 <br />
-👷‍♂️  Currently working on communities.new
+🏆 Tech's official™️ Hype man
 <br />
-:egg:  You'll find me teaching some things on [Eggheadio](https://egghead.io/instructors/domitrius-clark)
+👷‍♂️  I love teaching about the web, gaming, and building communities
 <br />
-👨‍🏫   I'm passionate about creating engaging and safe spaces for communities. 
+🥚 [Egghead](https://egghead.io/instructors/domitrius-clark)
+📺 [Youtube](https://youtube.com/@domitriusclark)
+🎵 [TikTok](https://tiktok.com/@domitriusclark_)
+<br />
+
+
