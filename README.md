@@ -1,6 +1,6 @@
 ![My social card](https://res.cloudinary.com/testing-hooks-upload/image/upload/v1594327700/socials_banner.png)
 
-🤓 Head of Developer Relations @ Clerk
+🤓 Developer Relations Leader & Engineer
 <br />
 🏆 Tech's official™️ Hype man
 <br />
