@@ -6,9 +6,8 @@
 <br />
 👷‍♂️  I love teaching about the web, gaming, and building communities
 <br />
-🥚 [Egghead](https://egghead.io/instructors/domitrius-clark)
+✖️ [X](https://x.com/domitriusclark)
 📺 [Youtube](https://youtube.com/@domitriusclark)
-🎵 [TikTok](https://tiktok.com/@domitriusclark_)
 <br />
 
 
